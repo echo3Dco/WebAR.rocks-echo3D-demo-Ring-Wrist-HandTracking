@@ -26,9 +26,9 @@ Refer to our [documentation](https://docs.echo3D.co) to learn more about echo3d.
 Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
 
 ## Screenshots
-![Example1](/screenshots/Screenshot 2022-01-25 111022.png)
-![Example2](/screenshots/Screenshot 2022-01-25 111244.png)
-![Example3](/screenshots/Screenshot 2022-01-25 111447.png)
+![Example1](/screenshots/Screenshot2022-01-25111022.png)
+![Example2](/screenshots/Screenshot2022-01-25111244.png)
+![Example3](/screenshots/Screenshot2022-01-25111447.png)
 
 ## Attribution
 [Crowned_Ring](https://free3d.com/3d-model/the-crowned-ring-407380.html) asset was found on free3d.com.
