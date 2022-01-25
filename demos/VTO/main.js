@@ -12,7 +12,7 @@ var occluderURL = '';
 var debugHandURL = '';
 
 var echoDB;
-const API_KEY = 'divine-art-5199';
+const API_KEY = 'YOUR_API_KEY';
 
 var ringModesCommonSettings;
 var wristModelCommonSettings;
