@@ -14,7 +14,7 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://consol
 * Host contents of the repository on static server. For my purposes, I used [browsersync](https://browsersync.io/).
 * Please refer to [WebAR-rocks/WebAR.rocks.hand](https://github.com/WebAR-rocks/WebAR.rocks.hand#virtual-try-on-and-object-manipulation) for more information 
 regarding correctly setting the position of new assets. 
-* I chose to adjust the position in blender and then entered the transform data as metadata in the echo3d console.
+* We chose to adjust the position in blender and then entered the transform data as metadata in the echo3d console.
 
 ## Swapping assets
 * You can swap out assets by changing the Value of the activeRing or activeWrist to 'true' or 'false' depending on whether that is the asset you want to use.
